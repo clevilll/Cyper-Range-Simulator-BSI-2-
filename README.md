@@ -11,7 +11,8 @@ Cyper Attack Simulator (BSI Challenge 2) Simulating an Environment of Hacker, Vi
 # 🚨 Cyber Attack Simulator (BSI Challenge 2)
 
 **HPI GovTech Student Award – Building Trust in a Digitalized Government**
-<img width="1671" height="941" alt="image" src="https://github.com/user-attachments/assets/cb8f5886-f4f6-4d4d-8c60-d45e51c58032" />
+
+<img width="1134" height="630" alt="image" src="https://github.com/user-attachments/assets/7308db86-ff3f-4d0e-973e-42707d178f90" />
 
 ---
 
