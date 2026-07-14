@@ -59,7 +59,8 @@ https://devpost.com/software/cyper-attack-simulator-bsi-2
 - Defense monitoring system  
 - Visualization dashboard  
 winner code submission (Demo): https://devpost.com/software/cyper-attack-simulator-bsi-2
-![img](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/450/907/datas/gallery.jpg)
+![img](https://github.com/clevilll/Cyper-Range-Simulator-BSI-2-/blob/main/Demo.jpg)
+
 ---
 
 ## 🧠 Reflection
